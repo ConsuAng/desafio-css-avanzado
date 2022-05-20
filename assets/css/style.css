@@ -110,7 +110,8 @@ main {
 }
 
 main img {
-  height: 250px;
+  height: 280px;
+  border-radius: 12px;
 }
 
 main h1 {
