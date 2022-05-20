@@ -41,19 +41,19 @@ aside {
 }
 
 .name {
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 400;
 }
 
 .active {
-  font-size: 10px;
+  font-size: 0.625rem;
   font-weight: 300;
   color: #B7B8B8;
 }
 
 .second {
   color: #959797;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .fa-regular {
@@ -87,12 +87,12 @@ aside {
 }
 
 .chat-active {
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 300;
 }
 
 button {
-  font-size: 16px;
+  font-size: 1rem;
   color: #Ffff;
   border: none;
   border-radius: none;
@@ -115,14 +115,14 @@ main img {
 
 main h1 {
   font-weight: 400;
-  font-size: 48px;
+  font-size: 3rem;
   margin-bottom: 0px;
   padding-bottom: 10px;
 }
 
 
 main h2 {
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: 300;
   margin: 0;
 }
